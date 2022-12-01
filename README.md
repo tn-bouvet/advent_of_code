@@ -1,2 +1,3 @@
 # advent_of_code
-Advent of code link
+
+I am currently solving advent of code over on [gitlab](https://gitlab.com/tkon2/advent-of-code-all-years/)
